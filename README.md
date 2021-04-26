@@ -11,6 +11,7 @@ This is the WinsVideo 2.0 project. Me and some of my friends have decided that w
 The goal of WinsVideo 2.0 are the following:
 - Simple
 - Secure
+
 I (Win) think that the platform should be very simple to use and does not give the user a bad UX or sending unnessesary information infront of the homepage, and we would also have a poll whether if we should add a specific feature or remove a specific feature. 
 
 ### Contribution
