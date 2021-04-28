@@ -1,0 +1,22 @@
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(209, 205, 199);
+    background-color: rgb(24, 26, 27);
+}
+
+.form-control {
+    color: rgb(209, 205, 199);
+    background-color: rgb(24, 26, 27);
+    border-color: rgb(60, 65, 68);
+}
+
+.column {
+    flex-grow: 1;
+    margin: 30px;
+    background-color: rgb(32, 35, 36);
+    min-height: 100px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 1px 2px;
+    display: grid;
+    padding: 20px;
+    align-self: center;  
+}
